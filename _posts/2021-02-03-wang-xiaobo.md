@@ -5,7 +5,7 @@ categories: [Blogging]
 tags: [reading]
 image:
   path: https://iili.io/JjRDRDP.jpg
-  alt: 王小波与李银河
+  alt: 王小波与妻子李银河合照
 ---
 
 小波和银河太浪漫了，然后很多信读起来很有意思。一是感到很真实，我感觉他们把自己心里真正所想的都写出来了；然后就是和小波的散文一样，富有哲理而又趣味盎然。
