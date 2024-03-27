@@ -4,17 +4,17 @@ date: 2020-10-04 12:00:00 +0800
 categories: [Blogging]
 tags: [reading]
 image:
-  path: https://ibb.co/FV3pL3B
+  path: https://i.ibb.co/JQtZwtz/gone-with-the-wind.jpg
   alt: 1939年小说改编电影《乱世佳人》海报
 ---
 
 断断续续，终于还是读完了这本在国内可以说很著名的小说了。
 
-  Tomorrow is another day.
+> Tomorrow is another day.
 
 可能我在小学还是初中时就知道这句话了吧。但为什么一直不去读呢？
 
-  任何一门艺术只有从作品里才能看到，只喜欢看杂文、看评论、看简介的人，是不会懂得任何一种艺术的。
+> 任何一门艺术只有从作品里才能看到，只喜欢看杂文、看评论、看简介的人，是不会懂得任何一种艺术的。
 
 小波先生的话，我是非常赞同的。
 
