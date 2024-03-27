@@ -4,7 +4,7 @@ date: 2020-10-04 12:00:00 +0800
 categories: [Blogging]
 tags: [reading]
 image:
-  path: https://i.ibb.co/JQtZwtz/gone-with-the-wind.jpg
+  path: https://s21.ax1x.com/2024/03/27/pFIpKLq.jpg
   alt: 1939年小说改编电影《乱世佳人》海报
 ---
 
