@@ -4,7 +4,7 @@ date: 2020-10-04 12:00:00 +0800
 categories: [Blogging]
 tags: [reading]
 image:
-  path: https://s21.ax1x.com/2024/03/27/pFIpKLq.jpg
+  path: https://i.postimg.cc/cLX0HPDZ/temp-Image-Wle-PK1.avif
   alt: 1939年小说改编电影《乱世佳人》海报
 ---
 
